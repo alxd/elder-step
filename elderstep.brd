@@ -153,8 +153,6 @@
 <text x="64.77" y="30.48" size="1.524" layer="1" font="vector" ratio="20" align="center">ElderStep</text>
 <text x="72.39" y="30.48" size="1.27" layer="1" font="vector" ratio="20" align="center">revA</text>
 <text x="78.74" y="30.48" size="1.016" layer="1" font="vector" ratio="20" align="center">10/04/17</text>
-<dimension x1="57.912" y1="-0.254" x2="57.912" y2="31.75" x3="45.72" y3="15.748" textsize="1.778" layer="47"/>
-<dimension x1="99.568" y1="-0.254" x2="57.912" y2="-0.254" x3="78.74" y3="-12.7" textsize="1.778" layer="47"/>
 </plain>
 <libraries>
 <library name="rcl" urn="urn:adsk.eagle:library:334">
